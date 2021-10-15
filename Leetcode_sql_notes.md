@@ -8,4 +8,7 @@ LEFT JOIN two tables with the same primary key column. Data does not available w
 
 #### 181. Employees Earning More Than Their Managers
 
+Convert column name use "AS". Join the same table use "ON" to match the primary key with foreign keys.
+
+#### 182. Duplicate Emails
 
