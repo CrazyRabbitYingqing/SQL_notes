@@ -12,3 +12,7 @@ Convert column name use "AS". Join the same table use "ON" to match the primary 
 
 #### 182. Duplicate Emails
 
+DELETE from the original table
+
+#### 
+
